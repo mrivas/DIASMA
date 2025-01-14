@@ -1,0 +1,2 @@
+Organism	Condition	GeneExpFile	Medium	Network
+Ecoli	Glucose	ecoli/Ecoli_Expfile_Glucose.csv	ecoli/Ecoli_Medium.csv	ecoli/iJO1366.xml
